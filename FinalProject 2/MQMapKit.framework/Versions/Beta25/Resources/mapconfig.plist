@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MapQuest.Map.Annotation.GreenPinImage_DOWN</key>
+	<string>icn_poi_down_green</string>
+	<key>MapQuest.Map.Annotation.GreenPinImage_UP</key>
+	<string>icn_poi_up_green</string>
+	<key>MapQuest.Map.Annotation.PinShadowImage</key>
+	<string>icn_poi_shadow</string>
+	<key>MapQuest.Map.Annotation.PurplePinImage_DOWN</key>
+	<string>icn_poi_down_purple</string>
+	<key>MapQuest.Map.Annotation.PurplePinImage_UP</key>
+	<string>icn_poi_up_purple</string>
+	<key>MapQuest.Map.Annotation.RedPinImage_DOWN</key>
+	<string>icn_poi_down_red</string>
+	<key>MapQuest.Map.Annotation.RedPinImage_UP</key>
+	<string>icn_poi_up_red</string>
+	<key>MapQuest.Map.Annotation.UserLocation</key>
+	<string>icn_position_blue</string>
+	<key>MapQuest.Map.Geocode.URL</key>
+	<string>http://www.mapquestapi.com/geocoding/v1/reverse</string>
+	<key>MapQuest.Map.Geocode.URL.Open</key>
+	<string>http://open.mapquestapi.com/nominatim/v1/reverse</string>
+	<key>MapQuest.Map.Logo</key>
+	<string>mqlogo</string>
+	<key>MapQuest.Map.Logo.Navteq</key>
+	<string>navteqlogo</string>
+	<key>MapQuest.Map.Logo.OSM</key>
+	<string>osmlogo</string>
+	<key>MapQuest.Map.ShowAlerts</key>
+	<string>YES</string>
+	<key>MapQuest.Map.TileProvider</key>
+	<string>MQ</string>
+	<key>MapQuest.Map.TileProvider.Open</key>
+	<string>MQOSM</string>
+	<key>MapQuest.Map.TileURL.Config.URL</key>
+	<string>http://mapconfig.mapquest.com/mapconfig?format=xml</string>
+	<key>MapQuest.Map.TileURL.Config.URL.Default</key>
+	<string>http://vtiles01.mqcdn.com/tiles/1.0.0/vx/{$layer}/{$z}/{$x}/{$y}.{$ext}</string>
+	<key>MapQuest.SDK.Version</key>
+	<string>Beta25</string>
+</dict>
+</plist>
